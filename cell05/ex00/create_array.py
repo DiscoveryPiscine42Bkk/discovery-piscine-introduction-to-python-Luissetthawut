@@ -1,3 +1,5 @@
-user_input = input("Enter a string:")
-swapped = user_input.swapcase()
-print(swapped)
+# Define an array of numbers
+numbers = [3, 7, 12, 19, 21, 25]
+
+# Display the array on the screen
+print("Array of numbers:", numbers)
