@@ -9,3 +9,4 @@ elif num1 * num2 < 0:
 	print("The result is negative.")
 else:
 	print("The result is positive and negative.")
+
